@@ -1,24 +1,24 @@
-#img-div{
-text-align: center;
-background: #eee;
+#img-div {
+  text-align: center;
+  background: #eee;
 }
 
-#image{
-max-width: 35%;
-margin: 0px auto;
-display: block;
+#image {
+  max-width: 35%;
+  margin: 0px auto;
+  display: block;
 }
 
 h1 {
-text-align: center;
-font-size: 60px;
+  text-align: center;
+  font-size: 60px;
 }
 
-p{
-text-align: center;
-font-size: 24px;
+p {
+  text-align: center;
+  font-size: 24px;
 }
 
 #img-div p{
-font-size: 36px;
+  font-size: 36px;
 }
